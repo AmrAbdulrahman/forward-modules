@@ -1,0 +1,32 @@
+{
+  "name": "forward-modules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmrAbdulrahman/forward-modules.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmrAbdulrahman/forward-modules/issues"
+  },
+  "homepage": "https://github.com/AmrAbdulrahman/forward-modules#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.1.0"
+  },
+  "keywords": [
+    "forward",
+    "proxy",
+    "modules",
+    "expose",
+    "export",
+    "all"
+  ]
+}
